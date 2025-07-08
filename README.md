@@ -48,7 +48,7 @@ C:/texturas/
 
 1. Instala [Code::Blocks](http://www.codeblocks.org/downloads/26) con soporte para C++.
 2. Descarga e instala FreeGLUT:  
-   [FreeGLUT para Windows](https://www.transmissionzero.co.uk/software/freeglut-devel/)
+   [FreeGLUT para Windows](https://sourceforge.net/projects/freeglut/files/latest/download)
 3. Configura en tu proyecto:
    - `Settings > Compiler > Search directories > Compiler` → añade el path donde están los headers de FreeGLUT.
    - `Settings > Linker settings` → enlaza las `.lib` correspondientes.
